@@ -157,7 +157,7 @@ following categories:
 # Overview of Linear Relationship Outcomes
 
 ## Bounce Rate versus Exit Rate
-![Bounce Rate versus Exit Rate](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering Algorithm/blob/main/Output/Bounce%20Rate%20versus%20Exit%20Rate.png).png)
+![Bounce Rate versus Exit Rate](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering Algorithm/blob/main/Output/Bounce%20Rate%20versus%20Exit%20Rate.png)
  
  
  
