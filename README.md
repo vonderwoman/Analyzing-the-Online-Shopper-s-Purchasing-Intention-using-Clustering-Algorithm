@@ -169,7 +169,7 @@ following categories:
 ![Impact of Administration Page Views and Administrative Pageview Duration on Revenue](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Impact%20of%20Administration%20Page%20Views%20and%20Administrative%20Pageview%20Duration%20on%20Revenue.png)
  
 ## Impact of Information Page Views and Information Pageview Duration on Revenue 
-![Impact of Information Page Views and Information Pageview Duration on Revenue ](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Impact%20of%20Administration%20Page%20Views%20and%20Administrative%20Pageview%20Duration%20on%20Revenue.png)
+![Impact of Information Page Views and Information Pageview Duration on Revenue ](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Impact%20of%20Information%20Page%20Views%20and%20Information%20Pageview%20Duration%20on%20Revenue%20.png)
 
 ## Informational Duration vs Bounce Rates_plot
 ![Informational Duration vs Bounce Rates_plot](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Informational%20Duration%20vs%20Bounce%20Rates_plot.png)
