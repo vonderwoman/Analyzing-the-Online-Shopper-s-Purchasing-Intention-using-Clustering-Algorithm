@@ -154,7 +154,10 @@ following categories:
  - Performing K-means Clustering for Administrative Duration versus Exit Rate
  
  
- 
+# Overview of Linear Relationship Outcomes
+
+## Bounce Rate versus Exit Rate
+![Bounce Rate versus Exit Rate]([https://github.com/vonderwoman/Bike-Sharing-Analysis/blob/main/Output/rides_distribution](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Bounce%20Rate%20versus%20Exit%20Rate.png).png)
  
  
  
