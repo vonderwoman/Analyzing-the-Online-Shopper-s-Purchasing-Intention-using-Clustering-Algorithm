@@ -159,7 +159,14 @@ following categories:
 ## Bounce Rate versus Exit Rate
 ![Bounce Rate versus Exit Rate](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Bounce%20Rate%20versus%20Exit%20Rate.png)
  
- 
+## Page Value versus Bounce Rate
+![Page Value versus Bounce Rate](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Page%20Value%20versus%20Bounce%20Rate.png)
+
+## Page Value versus Exit Rate
+![Page Value versus Exit Rate](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Page%20Value%20versus%20Exit%20Rate.png)
+
+## Impact of Administration Page Views and Administrative Pageview Duration on Revenue
+![Impact of Administration Page Views and Administrative Pageview Duration on Revenue](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Impact%20of%20Administration%20Page%20Views%20and%20Administrative%20Pageview%20Duration%20on%20Revenue.png)
  
  
  
