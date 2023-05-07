@@ -177,7 +177,7 @@ following categories:
 ## Informational Duration vs Exit Rates_plot
 ![Informational Duration vs Exit Rates_plot](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Informational%20Duration%20vs%20Exit%20Rates_plot.png)
 
-## Learns Learnt
+## Lessons Learnt
 
 - The conversion rates of new visitors are high compared to those of 
   returning customers. 
