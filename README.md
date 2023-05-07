@@ -24,21 +24,29 @@
 # Installation of Anaconda
 
     Download the Anaconda distribution package from the official Anaconda website (https://www.anaconda.com/products/individual).
+    
     Follow the installation instructions provided for your operating system (Windows, macOS, or Linux).
+    
     Once the installation is complete, you can launch Anaconda Navigator, which provides a user-friendly interface for managing environments and launching Jupyter Notebook.
 
 # Creating a Jupyter Notebook for Analyzing Shopper's Purchasing Intentions
 
     Open Anaconda Navigator and click on the "Launch" button under the Jupyter Notebook section.
+    
     This will open a new browser tab with the Jupyter Notebook interface.
+    
     Navigate to the directory where you want to create your notebook file.
+    
     Click on the "New" button and select "Python 3" to create a new Jupyter Notebook file with a Python kernel.
 
 # Reading Data into Jupyter Notebook
 
     Store the dataset file (e.g., "shoppers_data.csv") in the same directory as your Jupyter Notebook file.
+    
     In a code cell, use the appropriate library (e.g., pandas) to import the necessary functions for reading data.
+    
     Use the appropriate function (e.g., pandas' read_csv) to read the data file into a DataFrame.
+    
     Assign the DataFrame to a variable for further analysis and exploration.
     
 # Background
@@ -97,13 +105,53 @@ Clustering
  
 # Associated Tasks
 
+### Univariate analysis on the  following features:
 
+• Revenue column 
+
+• Visitor type
+
+• Traffic type
+
+• Region 
+
+• Weekend-wise distribution
+
+• Browser and operating system
+
+• Administrative page
+
+• Information page
+
+• Special day
+ 
+### Performing bivariate analysis between the revenue column and the 
+following categories:
+
+• Visitor type
+
+• Traffic type
+
+• Region
+
+• Browser type
+
+• Operating system
+
+• Month
+
+• Special day 
  
  
+### Clustering
+
+ - Performing K-means Clustering for Informational Duration versus Bounce Rate
  
+ - Performing K-means Clustering for Informational Duration versus Exit Rate
  
+ - Performing K-means Clustering for Administrative Duration versus Bounce Rate
  
- 
+ - Performing K-means Clustering for Administrative Duration versus Exit Rate
  
  
  
