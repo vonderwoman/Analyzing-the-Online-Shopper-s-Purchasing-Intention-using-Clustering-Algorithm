@@ -168,7 +168,37 @@ following categories:
 ## Impact of Administration Page Views and Administrative Pageview Duration on Revenue
 ![Impact of Administration Page Views and Administrative Pageview Duration on Revenue](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Impact%20of%20Administration%20Page%20Views%20and%20Administrative%20Pageview%20Duration%20on%20Revenue.png)
  
- 
+## Impact of Information Page Views and Information Pageview Duration on Revenue 
+![Impact of Information Page Views and Information Pageview Duration on Revenue ](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Impact%20of%20Administration%20Page%20Views%20and%20Administrative%20Pageview%20Duration%20on%20Revenue.png)
+
+## Informational Duration vs Bounce Rates_plot
+![Informational Duration vs Bounce Rates_plot](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Informational%20Duration%20vs%20Bounce%20Rates_plot.png)
+
+## Informational Duration vs Exit Rates_plot
+![Informational Duration vs Exit Rates_plot](https://github.com/vonderwoman/Analyzing-the-Online-Shopper-s-Purchasing-Intention-using-Clustering-Algorithm/blob/main/Output/Informational%20Duration%20vs%20Exit%20Rates_plot.png)
+
+## Learns Learnt
+
+- The conversion rates of new visitors are high compared to those of 
+  returning customers. 
+  
+-  While the number of returning customers to the website is high, the conversion 
+   rate is low compared to that of new customers.
+   
+- Pages with a high page value have a lower bounce rate. We should be talking 
+  with our tech team to find ways to improve the page value of the web pages
+  
+## Recommendation & Improvement
+
+ The following recommendations can be made to improve the conversion rates and overall performance of the website:
+
+ - Enhance the user experience for new visitors by improving website navigation, optimizing page load times, and providing clear and compelling calls to action. This    can help convert more new visitors into customers.
+
+- Implement personalized marketing strategies for returning customers to increase their conversion rates. This can include targeted offers, loyalty programs, and personalized recommendations based on their browsing and purchase history.
+
+- Collaborate with the tech team to identify and address any technical issues that might be impacting the page value of certain web pages. This can involve optimizing content, improving layout and design, and ensuring a seamless user experience.
+
+- Continuously monitor and analyze website metrics, such as conversion rates, bounce rates, and page values, to identify trends and make data-driven decisions for ongoing optimization and improvement.
  
  
  
